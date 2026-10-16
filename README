@@ -1,0 +1,12 @@
+How to compile:
+1. we use Makefile to produce the alpha_driver (command make)
+2. for run tests use command alpha_driver and the name test alpha_driver testKappa.alpha
+
+Extra information:
+When error exists we do  provide lexical analysis and the error that occurs.
+
+Team Members:
+
+Giorgos Maurantonakis csd4575
+Panagiotis Bermperidis csd4376
+Panagiotis Georgitseas csd4609
